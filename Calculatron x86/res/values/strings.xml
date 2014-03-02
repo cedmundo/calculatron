@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculatron</string>
+    <string name="action_about">About</string>
+    <string name="action_debug">Debug image</string>
+    <string name="action_flash">Enable or disable flash</string>
+    <string name="title_activity_calculator_history">History</string>
+    <string name="title_activity_start_activty">Calculatron</string>
+    <string name="title_activity_about">About</string>
+    <string name="init_message">Calculatron is starting</string>
+    <string name="main_calc_0">0</string>
+    <string name="main_calc_busy">Pease wait &#8230;</string>
+
+    <!-- Calculator buttons text -->
+    <string name="calculator_label_one">1</string>
+    <string name="calculator_label_two">2</string>
+    <string name="calculator_label_three">3</string>
+    <string name="calculator_label_four">4</string>
+    <string name="calculator_label_five">5</string>
+    <string name="calculator_label_six">6</string>
+    <string name="calculator_label_seven">7</string>
+    <string name="calculator_label_eight">8</string>
+    <string name="calculator_label_nine">9</string>
+    <string name="calculator_label_zero">0</string>
+    <string name="calculator_label_sum">&#x002B;</string>
+    <string name="calculator_label_min">&#x002D;</string>
+    <string name="calculator_label_mul">&#x00D7;</string>
+    <string name="calculator_label_div">&#x00F7;</string>
+    <string name="calculator_label_equ">&#x003D;</string>
+    <string name="calculator_label_dot">.</string>
+    <string name="calculator_label_f">F</string>
+    <string name="calculator_label_h">H</string>
+    <string name="calculator_label_e">E</string>
+    <string name="calculator_label_c">C</string>
+    <string name="calculator_label_ce">CE</string>
+
+    <!-- Misc messages -->
+    <string name="message_unexcepted_error">Error: "%s" see forums for more information</string>
+    <string name="message_input_error">Some characters where not recognized</string>
+    <string name="message_numberformat_error">Input is invalid: "%s"</string>
+    <string name="message_preview_error">Error initalizing preview</string>
+    <string name="message_number_too_long">Only 15 digits are allowed</string>
+    <string name="message_decimal_too_long">Only 14 decimals are allowed</string>
+    <string name="message_no_history">History is clean</string>
+    
+    <string name="about_label_contentlogo">Calculatron</string>
+    <string name="about_label_appname">Calculatron 1.0.0a</string>
+    <string name="about_label_author">Carlos Edmundo Martínez Mendoza</string>
+    <string name="about_label_site">http://cedmundomartinez.com/calculatron</string>
+	
+</resources>
